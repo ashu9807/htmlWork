@@ -1,0 +1,29 @@
+h1{
+   color: red;
+   font-size: 100px;
+}
+h1:hover{
+background-color: blue;
+}
+p{
+    font-size: 35px;
+}
+img{
+   background-color: red;
+}
+img:hover{
+   background-color: silver;
+}
+.bacon{
+   background-color: red;
+}
+.broccli{
+   background-color: green;
+  
+}
+.circular{
+   border-radius: 100px;
+}
+#heading{
+   color: red;
+}
